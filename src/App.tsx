@@ -25,7 +25,7 @@ const tabs = [
 ]
 
 function App() {
-  const [tab, setTab] = useState("hw1")
+  const [tab, setTab] = useState("s1")
 
   return (
     <div>
