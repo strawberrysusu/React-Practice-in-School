@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm -v)",
+      "Bash(npx ts-node:*)",
+      "Bash(npx tsx:*)",
+      "Bash(npm create:*)",
+      "Bash(mkdir -p step0)",
+      "Bash(mv step0-js-basics.ts step0-typescript.ts step0/)",
+      "Bash(cd:*)",
+      "Bash(cp:*)",
+      "Bash(npm install:*)",
+      "Bash(npx vite:*)",
+      "Read(//d/Dev/**)",
+      "Bash(pip show:*)",
+      "Bash(python -c \"import fitz; print\\('pymupdf ok'\\)\")",
+      "Bash(python:*)",
+      "Bash(npm run:*)",
+      "Bash(netstat -ano)",
+      "Bash(findstr :5174)",
+      "Bash(findstr LISTENING)",
+      "Bash(findstr :517)",
+      "Bash(tasklist)",
+      "Bash(findstr node.exe)",
+      "Bash(node *)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}
